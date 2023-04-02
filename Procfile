@@ -1,1 +1,1 @@
-web: gunicorn apsproject/apsproject.wsgi --log-file -
+web: gunicorn apsproject/apsproject.wsgi.py --log-file -

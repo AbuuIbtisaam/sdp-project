@@ -24,7 +24,6 @@ jsonschema==4.17.3
 MarkupSafe==2.1.2
 marshmallow==3.19.0
 mypy-extensions==1.0.0
-mysqlclient==2.1.1
 packaging==23.0
 pathspec==0.11.0
 platformdirs==3.0.0
